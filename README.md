@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**WIP**
+
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB) ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQl&logoColor=white&color=E10098)
+
+
 <!--
 **UgRoss/UgRoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
