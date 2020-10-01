@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/wave.gif" width="30px">
 
 **WIP**
 
