@@ -1,13 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/wave.gif" width="30px">
 
-**WIP**
-
-
-## ⚒️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB) ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=007ACC) ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQl&logoColor=white&color=E10098) ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=C21325) ![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=CC6699) ![](https://img.shields.io/badge/Tools-Prettier-informational?style=flat&logo=Prettier&logoColor=white&color=F7B93E) ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) ![](https://img.shields.io/badge/Tools-Travis%20CI-informational?style=flat&logo=travis-ci&logoColor=white&color=3EAAAF) ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=Gatsby&logoColor=white&color=663399)
-
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugross&langs_count=4&theme=dracula) ![Rostislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugross&theme=dracula)
 <!--
 **UgRoss/UgRoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +14,58 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Website](https://img.shields.io/website?down_message=DOWN&label=UgRoss.dev&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fugross.dev)](https://ugross.dev)
+
+**WIP**
+
+### Connect with me:
+
+[<img align="left" alt="ugRoss.dev" width="22px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/globe.svg" />](https://ugross.dev)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/linkedin.svg" />](https://www.linkedin.com/in/rostyslav-ugryniuk-7b7466102/)
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/html.png" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/css.png" />](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+[<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/sass.png" />](https://sass-lang.com/)
+[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/react.png" />](https://reactjs.org/)
+[<img align="left" alt="Gatsby" width="30px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/gatsby.png" />](https://www.gatsbyjs.com/)
+[<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/graphql.png" />](https://graphql.org/)
+[<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/nodejs.png" />](https://nodejs.org/en/)
+[<img align="left" alt="NextJS" width="40px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/next-js.png" />](https://nextjs.org/)
+[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/git.png" />](https://git-scm.com/)
+[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/github.png" />](https://github.com/)
+[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/terminal.png" />](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[<img align="left" alt="Styled Components" width="35px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/styled-components.png" />](https://styled-components.com/)
+
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+#### ⚡️ Recent Github Activity
+<!--START_SECTION:activity-->
+
+#### ⚡️ GitHub Stats
+
+<details>
+  <summary>🧑‍💻 Most Used Languages</summary>
+
+  <img align="left" alt="ugRoss's GitHub Stats | Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugross&langs_count=4&hide_border=true" />
+</details>
+
+<details open>
+  <summary>📈 Stats</summary>
+
+  <img align="left" alt="ugRoss's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ugross&hide_border=true" />
+</details>
