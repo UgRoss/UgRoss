@@ -75,11 +75,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/UgRoss/ugross.dev/pull/46) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-2. ❗️ Closed issue [#45](https://github.com/UgRoss/ugross.dev/issues/45) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-3. ❗️ Closed issue [#43](https://github.com/UgRoss/ugross.dev/issues/43) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-4. ❗️ Closed issue [#44](https://github.com/UgRoss/ugross.dev/issues/44) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-5. ❗️ Closed issue [#42](https://github.com/UgRoss/ugross.dev/issues/42) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. ❗️ Opened issue [#48](https://github.com/UgRoss/ugross.dev/issues/48) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+2. 🎉 Merged PR [#46](https://github.com/UgRoss/ugross.dev/pull/46) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+3. ❗️ Closed issue [#45](https://github.com/UgRoss/ugross.dev/issues/45) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+4. ❗️ Closed issue [#43](https://github.com/UgRoss/ugross.dev/issues/43) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+5. ❗️ Closed issue [#44](https://github.com/UgRoss/ugross.dev/issues/44) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
   <!--END_SECTION:activity-->
 
   </div>
