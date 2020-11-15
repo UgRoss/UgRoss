@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?down_message=DOWN&label=UgRoss.dev&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fugross.dev)](https://ugross.dev)
 
-- <img align="left" alt="cat coding" width="25px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/cat-dev.gif" /> Front-end Developer
+- <img align="left" alt="cat coding" width="25px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/cat-dev.gif" />Front-end Developer
 - 🤔 I use daily `.js`, `.ts`, `.graphql`.
 - 💬 Ask me about JavaScript, React, and TypesScript.
 - 🏂 I love snowboarding.
@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 #### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/html.png" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/css.png" />](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
 [<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/sass.png" />](https://sass-lang.com/)
@@ -47,6 +46,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/nodejs.png" />](https://nodejs.org/en/)
 [<img align="left" alt="NextJS" width="40px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/next-js.png" />](https://nextjs.org/)
 [<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/git.png" />](https://git-scm.com/)
+[<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/github.png" />](https://github.com/)
 [<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/terminal.png" />](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>)
 [<img align="left" alt="Styled Components" width="35px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/styled-components.png" />](https://styled-components.com/)
