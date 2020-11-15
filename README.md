@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [React Component Lifecycle Methods](https://ugross.dev/blog/react-component-lifecycle-methods)
 - [Data Structures: Linked List](https://ugross.dev/blog/data-structures-linked-list)
 - [Dates in JavaScript](https://ugross.dev/blog/dates-in-java-script)
