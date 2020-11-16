@@ -75,11 +75,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#48](https://github.com/UgRoss/ugross.dev/issues/48) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-2. 🎉 Merged PR [#46](https://github.com/UgRoss/ugross.dev/pull/46) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-3. ❗️ Closed issue [#45](https://github.com/UgRoss/ugross.dev/issues/45) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-4. ❗️ Closed issue [#43](https://github.com/UgRoss/ugross.dev/issues/43) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-5. ❗️ Closed issue [#44](https://github.com/UgRoss/ugross.dev/issues/44) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. ❗️ Opened issue [#3](https://github.com/UgRoss/minimal-online-cv-template/issues/3) in [UgRoss/minimal-online-cv-template](https://github.com/UgRoss/minimal-online-cv-template)
+2. ❗️ Opened issue [#2](https://github.com/UgRoss/minimal-online-cv-template/issues/2) in [UgRoss/minimal-online-cv-template](https://github.com/UgRoss/minimal-online-cv-template)
+3. ❗️ Opened issue [#1](https://github.com/UgRoss/minimal-online-cv-template/issues/1) in [UgRoss/minimal-online-cv-template](https://github.com/UgRoss/minimal-online-cv-template)
+4. ❗️ Opened issue [#48](https://github.com/UgRoss/ugross.dev/issues/48) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+5. 🎉 Merged PR [#46](https://github.com/UgRoss/ugross.dev/pull/46) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
   <!--END_SECTION:activity-->
 
   </div>
