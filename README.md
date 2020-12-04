@@ -75,11 +75,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#852](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/issues/852) in [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)
-2. ❗️ Opened issue [#48](https://github.com/UgRoss/ugross.dev/issues/48) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-3. 🎉 Merged PR [#46](https://github.com/UgRoss/ugross.dev/pull/46) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-4. ❗️ Closed issue [#45](https://github.com/UgRoss/ugross.dev/issues/45) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-5. ❗️ Closed issue [#43](https://github.com/UgRoss/ugross.dev/issues/43) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. ❗️ Opened issue [#2](https://github.com/UgRoss/data-structures-typescript/issues/2) in [UgRoss/data-structures-typescript](https://github.com/UgRoss/data-structures-typescript)
+2. ❗️ Opened issue [#1](https://github.com/UgRoss/data-structures-typescript/issues/1) in [UgRoss/data-structures-typescript](https://github.com/UgRoss/data-structures-typescript)
+3. ❗️ Opened issue [#852](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/issues/852) in [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)
+4. ❗️ Opened issue [#48](https://github.com/UgRoss/ugross.dev/issues/48) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+5. 🎉 Merged PR [#46](https://github.com/UgRoss/ugross.dev/pull/46) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
   <!--END_SECTION:activity-->
 
   </div>
