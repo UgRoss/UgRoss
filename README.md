@@ -75,11 +75,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/UgRoss/ugross.dev/pull/49) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-2. ❗️ Closed issue [#47](https://github.com/UgRoss/ugross.dev/issues/47) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-3. 💪 Opened PR [#49](https://github.com/UgRoss/ugross.dev/pull/49) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-4. ❗️ Opened issue [#3](https://github.com/UgRoss/data-structures-typescript/issues/3) in [UgRoss/data-structures-typescript](https://github.com/UgRoss/data-structures-typescript)
-5. ❗️ Closed issue [#1](https://github.com/UgRoss/data-structures-typescript/issues/1) in [UgRoss/data-structures-typescript](https://github.com/UgRoss/data-structures-typescript)
+1. 🎉 Merged PR [#5](https://github.com/UgRoss/data-structures-typescript/pull/5) in [UgRoss/data-structures-typescript](https://github.com/UgRoss/data-structures-typescript)
+2. ❗️ Closed issue [#4](https://github.com/UgRoss/data-structures-typescript/issues/4) in [UgRoss/data-structures-typescript](https://github.com/UgRoss/data-structures-typescript)
+3. 💪 Opened PR [#5](https://github.com/UgRoss/data-structures-typescript/pull/5) in [UgRoss/data-structures-typescript](https://github.com/UgRoss/data-structures-typescript)
+4. ❗️ Opened issue [#4](https://github.com/UgRoss/data-structures-typescript/issues/4) in [UgRoss/data-structures-typescript](https://github.com/UgRoss/data-structures-typescript)
+5. ❗️ Closed issue [#3](https://github.com/UgRoss/data-structures-typescript/issues/3) in [UgRoss/data-structures-typescript](https://github.com/UgRoss/data-structures-typescript)
   <!--END_SECTION:activity-->
 
   </div>
