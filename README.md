@@ -75,11 +75,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/UgRoss/UgRoss/issues/6) in [UgRoss/UgRoss](https://github.com/UgRoss/UgRoss)
-2. ❗️ Closed issue [#5](https://github.com/UgRoss/UgRoss/issues/5) in [UgRoss/UgRoss](https://github.com/UgRoss/UgRoss)
-3. ❗️ Closed issue [#1409](https://github.com/infernojs/inferno/issues/1409) in [infernojs/inferno](https://github.com/infernojs/inferno)
-4. ❗️ Closed issue [#4](https://github.com/UgRoss/random-quote-generator/issues/4) in [UgRoss/random-quote-generator](https://github.com/UgRoss/random-quote-generator)
-5. 🎉 Merged PR [#51](https://github.com/UgRoss/ugross.dev/pull/51) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. ❗️ Opened issue [#6](https://github.com/UgRoss/data-structures-typescript/issues/6) in [UgRoss/data-structures-typescript](https://github.com/UgRoss/data-structures-typescript)
+2. ❗️ Closed issue [#6](https://github.com/UgRoss/UgRoss/issues/6) in [UgRoss/UgRoss](https://github.com/UgRoss/UgRoss)
+3. ❗️ Closed issue [#5](https://github.com/UgRoss/UgRoss/issues/5) in [UgRoss/UgRoss](https://github.com/UgRoss/UgRoss)
+4. ❗️ Closed issue [#1409](https://github.com/infernojs/inferno/issues/1409) in [infernojs/inferno](https://github.com/infernojs/inferno)
+5. ❗️ Closed issue [#4](https://github.com/UgRoss/random-quote-generator/issues/4) in [UgRoss/random-quote-generator](https://github.com/UgRoss/random-quote-generator)
   <!--END_SECTION:activity-->
 
   </div>
