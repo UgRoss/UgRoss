@@ -75,11 +75,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/UgRoss/mac-setup/issues/4) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
-2. ❗️ Opened issue [#3](https://github.com/UgRoss/mac-setup/issues/3) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
-3. ❗️ Opened issue [#2](https://github.com/UgRoss/mac-setup/issues/2) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
-4. ❗️ Opened issue [#1](https://github.com/UgRoss/mac-setup/issues/1) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
-5. 🎉 Merged PR [#8](https://github.com/UgRoss/data-structures-typescript/pull/8) in [UgRoss/data-structures-typescript](https://github.com/UgRoss/data-structures-typescript)
+1. ❗️ Closed issue [#1](https://github.com/UgRoss/mac-setup/issues/1) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
+2. ❗️ Closed issue [#2](https://github.com/UgRoss/mac-setup/issues/2) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
+3. ❗️ Closed issue [#3](https://github.com/UgRoss/mac-setup/issues/3) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
+4. ❗️ Opened issue [#4](https://github.com/UgRoss/mac-setup/issues/4) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
+5. ❗️ Opened issue [#3](https://github.com/UgRoss/mac-setup/issues/3) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
   <!--END_SECTION:activity-->
 
   </div>
