@@ -76,10 +76,10 @@ Here are some ideas to get you started:
   
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20920](https://github.com/vercel/next.js/issues/20920) in [vercel/next.js](https://github.com/vercel/next.js)
-2. ❗️ Closed issue [#1](https://github.com/UgRoss/mac-setup/issues/1) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
-3. ❗️ Closed issue [#2](https://github.com/UgRoss/mac-setup/issues/2) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
-4. ❗️ Closed issue [#3](https://github.com/UgRoss/mac-setup/issues/3) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
-5. ❗️ Opened issue [#4](https://github.com/UgRoss/mac-setup/issues/4) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
+2. 🗣 Commented on [#20920](https://github.com/vercel/next.js/issues/20920) in [vercel/next.js](https://github.com/vercel/next.js)
+3. ❗️ Closed issue [#1](https://github.com/UgRoss/mac-setup/issues/1) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
+4. ❗️ Closed issue [#2](https://github.com/UgRoss/mac-setup/issues/2) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
+5. ❗️ Closed issue [#3](https://github.com/UgRoss/mac-setup/issues/3) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
   <!--END_SECTION:activity-->
 
   </div>
