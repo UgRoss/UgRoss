@@ -75,11 +75,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#41](https://github.com/UgRoss/ugross.dev/issues/41) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-2. 🗣 Commented on [#41](https://github.com/UgRoss/ugross.dev/issues/41) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-3. ❗️ Opened issue [#53](https://github.com/UgRoss/ugross.dev/issues/53) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-4. 💪 Opened PR [#52](https://github.com/UgRoss/ugross.dev/pull/52) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-5. 🗣 Commented on [#20920](https://github.com/vercel/next.js/issues/20920) in [vercel/next.js](https://github.com/vercel/next.js)
+1. ❗️ Opened issue [#54](https://github.com/UgRoss/ugross.dev/issues/54) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+2. ❗️ Closed issue [#41](https://github.com/UgRoss/ugross.dev/issues/41) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+3. 🗣 Commented on [#41](https://github.com/UgRoss/ugross.dev/issues/41) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+4. ❗️ Opened issue [#53](https://github.com/UgRoss/ugross.dev/issues/53) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+5. 💪 Opened PR [#52](https://github.com/UgRoss/ugross.dev/pull/52) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
   <!--END_SECTION:activity-->
 
   </div>
