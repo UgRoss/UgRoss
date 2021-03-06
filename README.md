@@ -75,11 +75,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/florianeckerstorfer/gatsby-remark-a11y-emoji/issues/67) in [florianeckerstorfer/gatsby-remark-a11y-emoji](https://github.com/florianeckerstorfer/gatsby-remark-a11y-emoji)
-2. ❗️ Opened issue [#67](https://github.com/florianeckerstorfer/gatsby-remark-a11y-emoji/issues/67) in [florianeckerstorfer/gatsby-remark-a11y-emoji](https://github.com/florianeckerstorfer/gatsby-remark-a11y-emoji)
-3. ❗️ Opened issue [#56](https://github.com/UgRoss/ugross.dev/issues/56) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-4. ❗️ Opened issue [#55](https://github.com/UgRoss/ugross.dev/issues/55) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-5. ❗️ Opened issue [#54](https://github.com/UgRoss/ugross.dev/issues/54) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. ❗️ Opened issue [#8](https://github.com/UgRoss/UgRoss/issues/8) in [UgRoss/UgRoss](https://github.com/UgRoss/UgRoss)
+2. ❗️ Closed issue [#852](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/issues/852) in [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)
+3. ❗️ Opened issue [#58](https://github.com/UgRoss/ugross.dev/issues/58) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+4. ❗️ Opened issue [#57](https://github.com/UgRoss/ugross.dev/issues/57) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+5. 🗣 Commented on [#67](https://github.com/florianeckerstorfer/gatsby-remark-a11y-emoji/issues/67) in [florianeckerstorfer/gatsby-remark-a11y-emoji](https://github.com/florianeckerstorfer/gatsby-remark-a11y-emoji)
   <!--END_SECTION:activity-->
 
   </div>
