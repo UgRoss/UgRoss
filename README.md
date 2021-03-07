@@ -75,11 +75,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/UgRoss/ugross.dev/pull/59) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-2. 💪 Opened PR [#59](https://github.com/UgRoss/ugross.dev/pull/59) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-3. ❗️ Opened issue [#8](https://github.com/UgRoss/UgRoss/issues/8) in [UgRoss/UgRoss](https://github.com/UgRoss/UgRoss)
-4. ❗️ Closed issue [#852](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/issues/852) in [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)
-5. ❗️ Opened issue [#58](https://github.com/UgRoss/ugross.dev/issues/58) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. ❗️ Opened issue [#62](https://github.com/UgRoss/ugross.dev/issues/62) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+2. ❗️ Opened issue [#61](https://github.com/UgRoss/ugross.dev/issues/61) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+3. 🎉 Merged PR [#60](https://github.com/UgRoss/ugross.dev/pull/60) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+4. ❗️ Closed issue [#29](https://github.com/UgRoss/ugross.dev/issues/29) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+5. 💪 Opened PR [#60](https://github.com/UgRoss/ugross.dev/pull/60) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
   <!--END_SECTION:activity-->
 
   </div>
