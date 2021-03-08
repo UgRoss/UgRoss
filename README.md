@@ -75,11 +75,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/UgRoss/ugross.dev/pull/64) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-2. 🗣 Commented on [#67](https://github.com/florianeckerstorfer/gatsby-remark-a11y-emoji/issues/67) in [florianeckerstorfer/gatsby-remark-a11y-emoji](https://github.com/florianeckerstorfer/gatsby-remark-a11y-emoji)
-3. ❗️ Closed issue [#54](https://github.com/UgRoss/ugross.dev/issues/54) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-4. ❗️ Closed issue [#48](https://github.com/UgRoss/ugross.dev/issues/48) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-5. ❗️ Closed issue [#56](https://github.com/UgRoss/ugross.dev/issues/56) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. 🎉 Merged PR [#64](https://github.com/UgRoss/ugross.dev/pull/64) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+2. ❗️ Closed issue [#57](https://github.com/UgRoss/ugross.dev/issues/57) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+3. 💪 Opened PR [#64](https://github.com/UgRoss/ugross.dev/pull/64) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+4. 🗣 Commented on [#67](https://github.com/florianeckerstorfer/gatsby-remark-a11y-emoji/issues/67) in [florianeckerstorfer/gatsby-remark-a11y-emoji](https://github.com/florianeckerstorfer/gatsby-remark-a11y-emoji)
+5. ❗️ Closed issue [#54](https://github.com/UgRoss/ugross.dev/issues/54) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
   <!--END_SECTION:activity-->
 
   </div>
