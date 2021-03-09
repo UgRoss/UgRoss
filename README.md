@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 #### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/html.png" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/css.png" />](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+[<img align="left" alt="HTML" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/html5.png" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img align="left" alt="CSS" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/css.png" />](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
 [<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/sass.png" />](https://sass-lang.com/)
 [<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="TypeScript" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/typescript.png" />](https://www.typescriptlang.org/)
