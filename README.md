@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Structures: Queue](https://ugross.dev/blog/data-structures-queue)
+- [Data Structures: Stack](https://ugross.dev/blog/data-structures-stack)
 - [React Component Lifecycle Methods](https://ugross.dev/blog/react-component-lifecycle-methods)
 - [Data Structures: Linked List](https://ugross.dev/blog/data-structures-linked-list)
 - [Dates in JavaScript](https://ugross.dev/blog/dates-in-java-script)
-- [JS Console API tips](https://ugross.dev/blog/js-console-api-tips)
-- [What's on My Desk](https://ugross.dev/blog/whats-on-my-desk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -75,11 +75,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/UgRoss/ugross.dev/pull/46) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-2. ❗️ Closed issue [#45](https://github.com/UgRoss/ugross.dev/issues/45) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-3. ❗️ Closed issue [#43](https://github.com/UgRoss/ugross.dev/issues/43) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-4. ❗️ Closed issue [#44](https://github.com/UgRoss/ugross.dev/issues/44) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-5. ❗️ Closed issue [#42](https://github.com/UgRoss/ugross.dev/issues/42) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. 🎉 Merged PR [#65](https://github.com/UgRoss/ugross.dev/pull/65) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+2. ❗️ Closed issue [#61](https://github.com/UgRoss/ugross.dev/issues/61) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+3. ❗️ Opened issue [#66](https://github.com/UgRoss/ugross.dev/issues/66) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+4. 💪 Opened PR [#65](https://github.com/UgRoss/ugross.dev/pull/65) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+5. 🎉 Merged PR [#64](https://github.com/UgRoss/ugross.dev/pull/64) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
   <!--END_SECTION:activity-->
 
   </div>
