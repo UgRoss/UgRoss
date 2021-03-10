@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Data Structures: Queue](https://ugross.dev/blog/data-structures-queue)
 - [Data Structures: Stack](https://ugross.dev/blog/data-structures-stack)
 - [React Component Lifecycle Methods](https://ugross.dev/blog/react-component-lifecycle-methods)
