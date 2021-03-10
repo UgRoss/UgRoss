@@ -28,28 +28,27 @@ Here are some ideas to get you started:
 
 #### Connect with me:
 
-[<img align="left" alt="ugRoss.dev" width="22px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/globe.svg" />](https://ugross.dev)
-[<img align="left" alt="ugRoss LinkedIn" width="22px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/linkedin.svg" />](https://www.linkedin.com/in/rostyslav-ugryniuk-7b7466102/)
+[<img align="left" alt="ugRoss.dev" width="22px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/social/website.svg" />](https://ugross.dev)
+[<img align="left" alt="ugRoss LinkedIn" width="22px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/social/linkedin.svg" />](https://www.linkedin.com/in/rostyslav-ugryniuk-7b7466102/)
 
 <br />
 
 #### Languages and Tools:
 
-[<img align="left" alt="HTML" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/html5.png" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[<img align="left" alt="CSS" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/css.png" />](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
-[<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/sass.png" />](https://sass-lang.com/)
-[<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="TypeScript" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/typescript.png" />](https://www.typescriptlang.org/)
-[<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/react.png" />](https://reactjs.org/)
-[<img align="left" alt="Gatsby" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/gatsby.png" />](https://www.gatsbyjs.com/)
-[<img align="left" alt="GraphQL" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/graphql.png" />](https://graphql.org/)
-[<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/nodejs.png" />](https://nodejs.org/en/)
-[<img align="left" alt="NextJS" width="40px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/next-js.png" />](https://nextjs.org/)
-[<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/git.png" />](https://git-scm.com/)
-[<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/github.png" />](https://github.com/)
-[<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/terminal.png" />](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>)
-[<img align="left" alt="Styled Components" width="35px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/styled-components.png" />](https://styled-components.com/)
+[<img align="left" alt="HTML" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/html5.svg" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img align="left" alt="CSS" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/css.svg" />](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+[<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/sass.svg" />](https://sass-lang.com/)
+[<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/javascript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="TypeScript" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/typescript.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/react.svg" />](https://reactjs.org/)
+[<img align="left" alt="Gatsby" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/gatsby.svg" />](https://www.gatsbyjs.com/)
+[<img align="left" alt="GraphQL" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/graphql.svg" />](https://graphql.org/)
+[<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/nodejs.svg" />](https://nodejs.org/en/)
+[<img align="left" alt="NextJS" width="40px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/nextjs.svg" />](https://nextjs.org/)
+[<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/git.svg" />](https://git-scm.com/)
+[<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/vscode.svg" />](https://code.visualstudio.com/)
+[<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/github.svg" />](https://github.com/)
+[<img align="left" alt="Styled Components" width="35px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/technologies/styled-components.svg" />](https://styled-components.com/)
 
 <br />
 
@@ -58,6 +57,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Data Structures: Queue](https://ugross.dev/blog/data-structures-queue)
 - [Data Structures: Stack](https://ugross.dev/blog/data-structures-stack)
 - [React Component Lifecycle Methods](https://ugross.dev/blog/react-component-lifecycle-methods)
