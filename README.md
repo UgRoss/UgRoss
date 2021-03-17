@@ -57,11 +57,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [404 Page](https://ugross.dev/404/)
+- [Index Page](https://ugross.dev/)
+- [Tools I use](https://ugross.dev/typography/)
+- [Tools I use](https://ugross.dev/uses/)
 - [Data Structures: Queue](https://ugross.dev/blog/data-structures-queue)
-- [Data Structures: Stack](https://ugross.dev/blog/data-structures-stack)
-- [React Component Lifecycle Methods](https://ugross.dev/blog/react-component-lifecycle-methods)
-- [Data Structures: Linked List](https://ugross.dev/blog/data-structures-linked-list)
-- [Dates in JavaScript](https://ugross.dev/blog/dates-in-java-script)
 <!-- BLOG-POST-LIST:END -->
 
 ---
