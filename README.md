@@ -74,11 +74,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30389](https://github.com/gatsbyjs/gatsby/pull/30389) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. 🎉 Merged PR [#73](https://github.com/UgRoss/ugross.dev/pull/73) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-3. 💪 Opened PR [#1128](https://github.com/wesbos/awesome-uses/pull/1128) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-4. 💪 Opened PR [#73](https://github.com/UgRoss/ugross.dev/pull/73) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-5. 🎉 Merged PR [#72](https://github.com/UgRoss/ugross.dev/pull/72) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. 🗣 Commented on [#70](https://github.com/UgRoss/ugross.dev/issues/70) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+2. 💪 Opened PR [#30389](https://github.com/gatsbyjs/gatsby/pull/30389) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+3. 🎉 Merged PR [#73](https://github.com/UgRoss/ugross.dev/pull/73) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+4. 💪 Opened PR [#1128](https://github.com/wesbos/awesome-uses/pull/1128) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+5. 💪 Opened PR [#73](https://github.com/UgRoss/ugross.dev/pull/73) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
   <!--END_SECTION:activity-->
 
   </div>
