@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 <details>
   <summary>🧑‍💻 Most Used Languages</summary>
 
-  <div style="display: flex;">
+  <div>
     <img align="left" alt="ugRoss's GitHub Stats | Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugross&langs_count=4&hide_border=true&theme=nord" />
   </div>
 </details>
