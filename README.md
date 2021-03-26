@@ -90,7 +90,7 @@ Here are some ideas to get you started:
   <summary>🧑‍💻 Most Used Languages</summary>
 
   <div>
-    <img align="left" alt="ugRoss's GitHub Stats | Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugross&langs_count=4&hide_border=true" />
+    <img align="left" alt="ugRoss's GitHub Stats | Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugross&langs_count=4&hide_border=true&theme=nord" />
   </div>
 </details>
 
@@ -100,6 +100,6 @@ Here are some ideas to get you started:
   <summary>📈 Stats</summary>
 
   <div>
-    <img align="left" alt="ugRoss's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ugross&hide_border=true" />
+    <img align="left" alt="ugRoss's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ugross&hide_border=true&show_icons=true&theme=nord&hide_title=true&include_all_commits=true&disable_animations=true" />
   </div>
 </details>
