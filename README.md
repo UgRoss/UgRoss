@@ -74,11 +74,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/UgRoss/ugross.dev/pull/74) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-2. 💪 Opened PR [#74](https://github.com/UgRoss/ugross.dev/pull/74) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-3. ❗️ Closed issue [#70](https://github.com/UgRoss/ugross.dev/issues/70) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-4. 🎉 Merged PR [#11](https://github.com/UgRoss/UgRoss/pull/11) in [UgRoss/UgRoss](https://github.com/UgRoss/UgRoss)
-5. ❗️ Closed issue [#8](https://github.com/UgRoss/UgRoss/issues/8) in [UgRoss/UgRoss](https://github.com/UgRoss/UgRoss)
+1. 🎉 Merged PR [#4](https://github.com/UgRoss/tetris/pull/4) in [UgRoss/tetris](https://github.com/UgRoss/tetris)
+2. 🎉 Merged PR [#74](https://github.com/UgRoss/ugross.dev/pull/74) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+3. 💪 Opened PR [#74](https://github.com/UgRoss/ugross.dev/pull/74) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+4. ❗️ Closed issue [#70](https://github.com/UgRoss/ugross.dev/issues/70) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+5. 🎉 Merged PR [#11](https://github.com/UgRoss/UgRoss/pull/11) in [UgRoss/UgRoss](https://github.com/UgRoss/UgRoss)
   <!--END_SECTION:activity-->
 
   </div>
