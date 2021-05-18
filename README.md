@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/wave.gif" width="32px"> Hello! I'm Rostyslav.
+  👋 Hello! I'm Rostyslav.
 </h2>
 
 <br />
