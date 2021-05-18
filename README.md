@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Website](https://img.shields.io/website?down_message=DOWN&label=UgRoss.dev&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fugross.dev)](https://ugross.dev)
-
 - <img align="left" alt="cat coding" width="25px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/cat-dev.gif" />Front-end Developer
 - 🤔 I use daily `.js`, `.ts`, `.graphql`.
 - 💬 Ask me about JavaScript, React, and TypesScript.
