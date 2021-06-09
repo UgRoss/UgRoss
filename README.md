@@ -72,11 +72,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/UgRoss/tetris/pull/6) in [UgRoss/tetris](https://github.com/UgRoss/tetris)
-2. 🎉 Merged PR [#7](https://github.com/UgRoss/catWiki/pull/7) in [UgRoss/catWiki](https://github.com/UgRoss/catWiki)
-3. 💪 Opened PR [#7](https://github.com/UgRoss/catWiki/pull/7) in [UgRoss/catWiki](https://github.com/UgRoss/catWiki)
-4. 🎉 Merged PR [#76](https://github.com/UgRoss/ugross.dev/pull/76) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-5. ❗️ Closed issue [#75](https://github.com/UgRoss/ugross.dev/issues/75) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. 🎉 Merged PR [#7](https://github.com/UgRoss/tetris/pull/7) in [UgRoss/tetris](https://github.com/UgRoss/tetris)
+2. 🎉 Merged PR [#6](https://github.com/UgRoss/tetris/pull/6) in [UgRoss/tetris](https://github.com/UgRoss/tetris)
+3. 🎉 Merged PR [#7](https://github.com/UgRoss/catWiki/pull/7) in [UgRoss/catWiki](https://github.com/UgRoss/catWiki)
+4. 💪 Opened PR [#7](https://github.com/UgRoss/catWiki/pull/7) in [UgRoss/catWiki](https://github.com/UgRoss/catWiki)
+5. 🎉 Merged PR [#76](https://github.com/UgRoss/ugross.dev/pull/76) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
   <!--END_SECTION:activity-->
 
   </div>
