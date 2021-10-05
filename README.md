@@ -72,11 +72,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/UgRoss/mac-setup/pull/6) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
-2. 🎉 Merged PR [#94](https://github.com/UgRoss/ugross.dev/pull/94) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-3. 🎉 Merged PR [#93](https://github.com/UgRoss/ugross.dev/pull/93) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-4. 🎉 Merged PR [#92](https://github.com/UgRoss/ugross.dev/pull/92) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-5. ❗️ Closed issue [#66](https://github.com/UgRoss/ugross.dev/issues/66) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. 🎉 Merged PR [#6](https://github.com/UgRoss/mac-setup/pull/6) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
+2. 💪 Opened PR [#6](https://github.com/UgRoss/mac-setup/pull/6) in [UgRoss/mac-setup](https://github.com/UgRoss/mac-setup)
+3. 🎉 Merged PR [#94](https://github.com/UgRoss/ugross.dev/pull/94) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+4. 🎉 Merged PR [#93](https://github.com/UgRoss/ugross.dev/pull/93) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+5. 🎉 Merged PR [#92](https://github.com/UgRoss/ugross.dev/pull/92) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
   <!--END_SECTION:activity-->
 
   </div>
