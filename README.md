@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br />
 
-- <img align="left" alt="cat coding" width="25px" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/cat-dev.gif" />Front-end Developer
+- <img align="left" alt="cat coding" height="25px" style="max-width: 100%;" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/cat-dev.gif" />  Front-end Developer
 - 🤔 I use daily `.js`, `.ts`, `.graphql`.
 - 💬 Ask me about JavaScript, React, and TypesScript.
 - 🏂 I love snowboarding.
