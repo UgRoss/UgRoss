@@ -72,11 +72,11 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/souvikinator/notion-to-md/pull/94#issuecomment-1637019767) in [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md)
-2. 🗣 Commented on [#93](https://github.com/souvikinator/notion-to-md/issues/93#issuecomment-1637019195) in [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md)
-3. 🎉 Merged PR [#153](https://github.com/UgRoss/ugross.dev/pull/153) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-4. 💪 Opened PR [#153](https://github.com/UgRoss/ugross.dev/pull/153) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-5. 💪 Opened PR [#94](https://github.com/souvikinator/notion-to-md/pull/94) in [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md)
+1. 🎉 Merged PR [#157](https://github.com/UgRoss/ugross.dev/pull/157) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+2. 💪 Opened PR [#157](https://github.com/UgRoss/ugross.dev/pull/157) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+3. ❌ Closed PR [#156](https://github.com/UgRoss/ugross.dev/pull/156) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+4. ❌ Closed PR [#155](https://github.com/UgRoss/ugross.dev/pull/155) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+5. ❌ Closed PR [#154](https://github.com/UgRoss/ugross.dev/pull/154) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
   <!--END_SECTION:activity-->
 
   </div>
