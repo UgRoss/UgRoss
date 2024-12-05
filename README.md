@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#168](https://github.com/UgRoss/ugross.dev/issues/168#issuecomment-1806879383) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. ❗ Opened issue [#3271](https://github.com/radix-ui/primitives/issues/3271) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
 2. 🔒 Closed issue [#168](https://github.com/UgRoss/ugross.dev/issues/168) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
 3. 🎉 Merged PR [#173](https://github.com/UgRoss/ugross.dev/pull/173) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
 4. ❗ Opened issue [#175](https://github.com/UgRoss/ugross.dev/issues/175) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
