@@ -72,8 +72,8 @@ Here are some ideas to get you started:
   <div>
   
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#180](undefined) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
-2. ❌ Closed PR [#179](undefined) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
+1. 🗣 Commented on [#2](https://github.com/UgRoss/rossug.me/pull/2#issuecomment-3683175757) in [UgRoss/rossug.me](https://github.com/UgRoss/rossug.me)
+2. 🗣 Commented on [#1](https://github.com/UgRoss/rossug.me/pull/1#issuecomment-3682637512) in [UgRoss/rossug.me](https://github.com/UgRoss/rossug.me)
 3. ❌ Closed PR [#176](undefined) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
 4. ❌ Closed PR [#178](undefined) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
 5. ❗ Opened issue [#174](https://github.com/UgRoss/ugross.dev/issues/174) in [UgRoss/ugross.dev](https://github.com/UgRoss/ugross.dev)
