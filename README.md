@@ -19,9 +19,9 @@ I'm Ross (Rostyslav),
 
 Software engineer in Spain.
 
-👨‍💻 _Work_: Frontend • TypeScript • React
+<img src="assets/cat-dev.gif" width="25" alt="Developer GIF"> **Work**: Frontend • TypeScript • React
 
-🌿 Life: Family • Fitness (casual) • Travel • Investing (beginner) • Geeky hobbies
+🌿 **Life**: Family • Fitness (casual) • Travel • Investing (beginner) • Geeky hobbies
 
 ---
 
